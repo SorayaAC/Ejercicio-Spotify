@@ -37,7 +37,7 @@ h2 {
 }
 
 .trial {
-  background-color: rgb(88, 88, 255);
+  background-color: #5b95db;
   position: relative;
   top: 50px;
   color: white;
@@ -50,6 +50,7 @@ h2 {
   width: ;
 }
 .hero {
+  height: 50%;
   padding-top: 100px;
   padding-left: 10px;
   padding-right: 10px;
